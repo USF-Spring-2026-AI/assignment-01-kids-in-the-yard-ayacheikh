@@ -1,0 +1,44 @@
+REFLECTION
+
+1.  Mariette Award's paper distinguishes between different "types" of AI:
+    Descriptive AI, Predictive AI, Generative AI, Optimization AI and 
+    Prescriptive AI. Descriptive AI focuses on extracting patterns from large 
+    datasets in order to get insights. Predictive AI uses historical data to 
+    predict outcomes and behaviors. Generative AI produces new/original content, 
+    which is useful for studying social behaviors without requiring real people.
+    Optimization AI focuses on finding the best solution among many variables and 
+    Prescriptive AI suggests actions by comparing scientific data with real-world 
+    constraints. All these types matter for scientific research because each scientific 
+    objective requires a different paradigm to operate in, which requires the distinction 
+    between those three types of AI. Different stages of the scientific method require 
+    different logic; and understanding when to use each type of AI helps researchers to 
+    know when human intervention is needed, and when it's not.     
+
+2.  Yes, Award implies a shift where AI systems act not only as tools, but as "epistemic agents". 
+    This reorientation involves AI advancing from enhancing human inquiries by assisting them, 
+    to restructuring reseach and generating new knowledge. This difference is supported by the 
+    example of autonomous laboratory systems which uses reinforcement learning to guide the 
+    creation of nanoparticules, and makes independent decisions requiring very minimal human 
+    intervention. Award suggests that while many of these tools are in fact extended from existing
+    methods, there is a real shift in how science is conducted, where AI is now actively contributing 
+    to scientific reasoning and advancement, even sometimes overwriting human deductions. 
+
+
+3.  Award identifies many risks associated with using AI for science. Those risks relate to 
+    interpretability as models produce results without revealing how they were derived, which 
+    enhances the "Black Box" ideology in which scientists find it hard to explain or justify the 
+    outputs. Bias is also a prevalent issue as tools can internalize societal bias, including race 
+    stereotypes, gender stereotypes and much more. In addition, certain tools can produce and spread 
+    false information which raises the issue of trust and reproducibility. Another risk is that the 
+    insight that emerges from data patterns might lack the theoretical premises that are required for 
+    scientific explanation.
+
+
+4.  According to Award's argument, AI is likely to both accelerate scientific discovery and reshape the 
+    scientific method itself. AI is accelerating discovery by processing large datasets and optimizing 
+    experiments, while simultaneously reshaping the scientific method and utilizing "epistemic agents".
+    This thus changes how  evidence is collected and how explanations are drawn. Personally, I agree with 
+    this argument and do believe that AI is likely to reshape the scientific method as it advances sciences 
+    toward a new approach where AI is leading, identifying the hypothesis, testing, producing etc. 
+    Although AI is taking much more space and agency in the scientific realm, I still think scientists remain 
+    essential for the validation and monitoring of AI use (inputs, outputs, etc).    
